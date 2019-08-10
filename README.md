@@ -1,6 +1,6 @@
 # Machine Learning
 
-## Bank Credit Approval includes Feature Selection Methods(PROJECT)
+## Bank Credit Approval includes Feature Selection Methods(Project)
         In machine learning algorithms, one of the biggest problems is
     scarcity of time and requirement of huge datasets. Feature selection
     provides optimization for these matters. Reducing time and amount of
